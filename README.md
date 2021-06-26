@@ -8,9 +8,9 @@ This scripts will install  `oh-my-zsh` , `homebrew` , `vim` and other plugins
 
 ```bash
 ##下载脚本
-curl -L https://git.hgpark.cn/yangkai/awesome-osx/raw/master/zsh.sh -o ~/zsh.sh
+curl -L https://raw.githubusercontent.com/kklives/awesome-osx/master/zsh.sh -o ~/zsh.sh
 ##使用代理
-export http_proxy=http://proxy.towantto.com:1087;export https_proxy=http://proxy.towantto.com:1087; export ALL_PROXY=socks5://proxy.towantto.com:1080
+export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087; export ALL_PROXY=socks5://127.0.0.1:1080
 ##需多次运行⤵️
 ##需多次运行⤵️
 ##需多次运行⤵️
